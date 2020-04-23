@@ -1,5 +1,7 @@
 My project is a web based app using sails.js. It uses the default homepage with some different stylings.
 
+To launch this app you need to have sails installed, you unzip the file, cd into the folder, then you run sails lift, and you will find my webapge at local host 1337
+
 I chose sails as it was easy to work with, and im familiar with bootstrap and webased clients.
 
 I got it to work all the way, in the sense that I lifted my app and the sso part of the app works.
